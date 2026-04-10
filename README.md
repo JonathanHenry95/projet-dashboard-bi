@@ -19,11 +19,11 @@
 ```
 projet-dashboard-bi/
 ├── Sample - Superstore.csv
-├── dashboard_screenshot_overview.png
-├── dashboard_screenshot_produits.png
-├── dashboard_screenshot_segments.png
-├── dashboard_screenshot_geographie.png
-├── dashboard_screenshot_remises.png
+├── dashboard_screenshot_overview.PNG
+├── dashboard_screenshot_produits.PNG
+├── dashboard_screenshot_segments.PNG
+├── dashboard_screenshot_geographie.PNG
+├── dashboard_screenshot_remises.PNG
 └── README.md
 ```
 
@@ -54,6 +54,22 @@ projet-dashboard-bi/
 | 4 — Géographie | Carte à bulles · CA & Marge par région · Top 10 états |
 | 5 — Analyse Remises | Impact remises sur marge · Taux commandes à perte · Évolution marge |
 
+## Aperçu du Dashboard
+
+### Page 1 — Performance Overview
+![Overview](dashboard_screenshot_overview.PNG)
+
+### Page 2 — Analyse Produits
+![Produits](dashboard_screenshot_produits.PNG)
+
+### Page 3 — Analyse Segments
+![Segments](dashboard_screenshot_segments.PNG)
+
+### Page 4 — Géographie
+![Géographie](dashboard_screenshot_geographie.PNG)
+
+### Page 5 — Analyse Remises
+![Remises](dashboard_screenshot_remises.PNG)
 ---
 
 ## Transformations Power Query (M)
